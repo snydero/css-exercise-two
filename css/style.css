@@ -1,0 +1,87 @@
+a {
+  text-decoration: none;
+}
+
+article {
+  padding-top: 100px;
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+div.story-text {
+  color: black;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+p {
+  text-align: left;
+  line-height: 2em;
+  font-size: 100%;
+}
+
+figure {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  padding: 5%;
+  line-height: 130%;
+  font-size: 200%;
+}
+
+h3 {
+  text-align: left;
+  line-height: 130%;
+  font-size: 140%;
+}
+
+.author {
+  padding-bottom: 5%;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 100%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  text-decoration; none;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
